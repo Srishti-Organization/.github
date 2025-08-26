@@ -34,9 +34,9 @@ Feel free to reach out!
 
 - **Programming Languages:** Java, Python, C, C++, JavaScript, HTML, CSS  
 - **Backend:** Spring Boot, REST APIs  
-- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Frontend:** React.js, Vite, TailwindCSS, HTML, CSS, JavaScript  
 - **Databases:** MySQL, PostgreSQL  
-- **DevOps & Tools:** Docker, Apache Kafka, Git, GitHub, GitLab, Gradle, Maven, Postman  
+- **DevOps & Tools:** Docker, Apache Kafka, Git, GitHub, GitLab, Gradle, Maven, Postman, Swagger(OpenAPI)  
 - **AI & ML:** PyTorch, Scikit-learn, NumPy, Pandas, OpenCV, Matplotlib  
 - **Security:** JWT, HMAC, Encryption  
 
